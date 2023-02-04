@@ -17,22 +17,39 @@
 #You will need a few attributes as well:- tickets -> list
  #parkingSpaces -> list
  #currentTicket -> dictionary
-class Ticket_container():
-    def __init__(self):
-        self.ticket=
-        self.pk_space=
-        self.currentTicket={}
-
-    def take_ticket(self):
-        #tickrt = input("")   
 
 
-        take_ticket =product (ticket) 
-        self.ticket.append(take_ticket)
 
-    def p_space(self):
-        slot = 200
-       for i in range (self.pk_space)
-    =
+class leave_garage:{}
+
+
+
+
+
+def __leave_garage__(self,):
+    self.ticket=['p1','p2','p3','p4','p5','p20']
+    
+
+    self.current_ticket={i:True for i in range(1,21)}
+    def __ticket__():
+        payment  =input("Did you pay your ticket?")
+        print("did you pay your ticket?")
+        if payment=="paid":
+            self.pay_ticket()
+        elif payment=="not paid":
+            self.pay_ticket()
+            print("thank you,have a nice day")
+            return
+
+
+
+            
+            
+
+
+  
+
+
+
 
 
